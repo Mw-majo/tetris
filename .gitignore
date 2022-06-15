@@ -1,2 +1,4 @@
 /node_modules
 .eslintrc.js
+/src/jsconfig.json
+/src/libraries
