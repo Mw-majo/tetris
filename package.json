@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/Mw-majo/tetris#readme",
   "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-plugin-p5js": "^0.4.1",
     "prettier": "^2.6.2"
   },
   "dependencies": {
-    "eslint": "^8.17.0",
     "p5": "^1.4.1"
   }
 }
